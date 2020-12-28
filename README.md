@@ -23,9 +23,8 @@ Week 3: Exploratory Data Analysis
 * Descriptive Statistics
 * GroupBy in Python
 * Correlation
-* Chi-square Introduction
+* Correlation - Statistics
 * Association between two categorical variables
-* Analysis of Variance ANOVA
 
 Week 4: Model Development
 * Model Development
@@ -38,7 +37,6 @@ Week 4: Model Development
 Week 5: Model Evaluation and Refinement
 * Model Evaluation and Refinement
 * Overfitting, Underfitting and Model Selection
-* Ridge Regression Introduction
 * Ridge Regression
 * Grid Search
 
